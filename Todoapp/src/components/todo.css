@@ -1,0 +1,16 @@
+@media screen and (max-width: 900px) {
+    .todoWidth {
+      width: 50% !important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .todoWidth {
+      width: 70% !important;
+    }
+}
+@media screen and (max-width: 400px) {
+    .todoWidth {
+      width: 80% !important;
+      margin-right: 5% !important;
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firestore-todoapp/static/css/main.ae10cda3.chunk.css",
+    "main.js": "/firestore-todoapp/static/js/main.5422a578.chunk.js",
+    "main.js.map": "/firestore-todoapp/static/js/main.5422a578.chunk.js.map",
+    "runtime-main.js": "/firestore-todoapp/static/js/runtime-main.70ef7f2f.js",
+    "runtime-main.js.map": "/firestore-todoapp/static/js/runtime-main.70ef7f2f.js.map",
+    "static/js/2.5fdff39e.chunk.js": "/firestore-todoapp/static/js/2.5fdff39e.chunk.js",
+    "static/js/2.5fdff39e.chunk.js.map": "/firestore-todoapp/static/js/2.5fdff39e.chunk.js.map",
+    "static/js/3.371ee2f1.chunk.js": "/firestore-todoapp/static/js/3.371ee2f1.chunk.js",
+    "static/js/3.371ee2f1.chunk.js.map": "/firestore-todoapp/static/js/3.371ee2f1.chunk.js.map",
+    "index.html": "/firestore-todoapp/index.html",
+    "static/css/main.ae10cda3.chunk.css.map": "/firestore-todoapp/static/css/main.ae10cda3.chunk.css.map",
+    "static/js/2.5fdff39e.chunk.js.LICENSE.txt": "/firestore-todoapp/static/js/2.5fdff39e.chunk.js.LICENSE.txt",
+    "static/media/bar.fd6d798a.png": "/firestore-todoapp/static/media/bar.fd6d798a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70ef7f2f.js",
+    "static/js/2.5fdff39e.chunk.js",
+    "static/css/main.ae10cda3.chunk.css",
+    "static/js/main.5422a578.chunk.js"
+  ]
+}

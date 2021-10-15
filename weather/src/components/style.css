@@ -1,0 +1,94 @@
+.main_div{
+    /* border: 2px solid black; */
+    border: none;
+    text-align: center;
+    margin: auto;
+    margin-top: 6%;
+    padding-top: 2%;
+    border-radius: 70px;
+    /* background: black; */
+    /* margin: 5% !important; */
+}
+@media screen and (max-width: 760px) {
+    .main_div {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        width: 80%;
+    }
+  }
+@media screen and (max-width: 400px) {
+    .main_div {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        width: 95%;
+    }
+}
+.thunderStorm{
+    background-Image: url("https://media2.giphy.com/media/FZzbTJyRTwPuw/200w.webp?cid=ecf05e47ka91pfm8rnin3c4p20v1cuotdc8fnhl4lvrkvqth&rid=200w.webp&ct=g"); 
+    background-size: cover;
+    color: white;
+}
+.rain{
+    background-Image: url("https://media3.giphy.com/media/26DMWExfbZSiV0Btm/giphy.webp?cid=ecf05e474gh4nove4ik6mcqvu6gpayp1vszu4b8d5cpor466&rid=giphy.webp&ct=g"); 
+    background-size: cover;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+.Haze{
+    background-Image: url("https://c.tenor.com/G3zYpql88DoAAAAM/moving-clouds-world-meteorological-day.gif"); 
+    background-size: cover;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+.Cloud{    
+    background-Image: url("https://media3.giphy.com/media/gG6xmgCgm4BadaD45x/200w.webp?cid=ecf05e47930ltgnxtlx8l1i60aad1anidear9stzqzng4e8i&rid=200w.webp&ct=g"); 
+    background-size: cover;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+.Clear{
+    background-Image: url("https://media1.giphy.com/media/u01ioCe6G8URG/200w.webp?cid=ecf05e47k4d7mpsr21wn04v4qk0vcyu9cqfg0ftriom5wsa9&rid=200w.webp&ct=g"); 
+    background-size: cover;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+.Smoke{
+    background-Image: url("https://media0.giphy.com/media/HoUgegTjteXCw/200w.webp?cid=ecf05e47tvzgnmxwkyee10vg90nitsi21chbqsxd167icxkk&rid=200w.webp&ct=g"); 
+    background-size: cover;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+body{
+    background-Image: url("https://images.unsplash.com/photo-1500491460312-c32fc2dbc751?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTY0fHx3ZWF0aGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"); 
+    background-size: cover;
+}
+i{
+    font-size: 2em;
+}
+.rain1{
+    color: aqua !important;
+}
+.rain2{
+    color: blue !important;
+}
+.weatherInformatin{
+    opacity: 0.8;
+}
+.para{
+    font-size: 16px;
+}
+.btn{
+    color: white;
+    background-color: black;
+    /* border: none; */
+    margin-left: 2px;
+    margin-top: 5px;
+    border-radius: 25px 25px;
+}
+.input{
+    border: none;
+    height: 35px;
+    border-radius: 25px 25px;
+    border-bottom: 4px solid black;
+    padding-left: 10px;
+}
